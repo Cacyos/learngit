@@ -1,0 +1,2 @@
+Git is a version for control.
+Git is awesome.
