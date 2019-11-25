@@ -1,2 +1,3 @@
-Git is a version for control.
-Git is awesome.
+Git is a  distributed version for control.
+Git  awesome.
+Git is free software distributed under the GPL.
