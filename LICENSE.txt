@@ -1,2 +1,3 @@
-Hello,Tomoto!
 Hello,World!
+Hello,GameFreak!
+
